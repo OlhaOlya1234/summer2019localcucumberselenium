@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6811b607-a4f2-4733-aca6-0a9cecbba3d6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ErrorTreeViewConfiguration">
+    <option name="hideWarnings" value="true" />
+    <option name="HIDE_WARNINGS" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="summer2019localcucumberselenium" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1V4wrGjSddScITC6DaUrt4N2kom" />
+  <component name="ProjectViewState">
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors.Console Colors" />
+  </component>
+  <component name="RunManager" selected="JUnit.CukesRunner">
+    <configuration name="Feature: Login" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="4" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/resources/features/Login.feature" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="summer2019localcucumberselenium" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm4SMFormatter" />
+      <option name="SUGGESTED_NAME" value="Feature: Login" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CukesRunner" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="summer2019localcucumberselenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.vytrack.runners.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.vytrack.runners" />
+      <option name="MAIN_CLASS_NAME" value="com.vytrack.runners.CukesRunner" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.CukesRunner" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6811b607-a4f2-4733-aca6-0a9cecbba3d6" name="Default Changelist" comment="" />
+      <created>1576525871693</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576525871693</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="320" y="90" key="#Project_Structure" timestamp="1576770969206">
+      <screen x="0" y="23" width="1440" height="812" />
+    </state>
+    <state x="320" y="90" key="#Project_Structure/0.23.1440.812@0.23.1440.812" timestamp="1576770969206" />
+    <state x="408" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1576598507885">
+      <screen x="0" y="23" width="1440" height="804" />
+    </state>
+    <state x="408" y="160" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.23.1440.804@0.23.1440.804" timestamp="1576598507885" />
+    <state width="1291" height="130" key="GridCell.Tab.0.bottom" timestamp="1577981950141">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.804@0.23.1440.804" timestamp="1576619098742" />
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.806@0.23.1440.806" timestamp="1576615618644" />
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.808@0.23.1440.808" timestamp="1576769818548" />
+    <state width="1358" height="130" key="GridCell.Tab.0.bottom/0.23.1440.811@0.23.1440.811" timestamp="1576870080879" />
+    <state width="1291" height="130" key="GridCell.Tab.0.bottom/0.23.1440.812@0.23.1440.812" timestamp="1576874324133" />
+    <state width="1291" height="130" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1576876733515" />
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.821@0.23.1440.821" timestamp="1576774558027" />
+    <state width="1358" height="192" key="GridCell.Tab.0.bottom/0.23.1440.822@0.23.1440.822" timestamp="1576774581180" />
+    <state width="1291" height="130" key="GridCell.Tab.0.bottom/0.23.1440.823@0.23.1440.823" timestamp="1577981950141" />
+    <state width="1358" height="358" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1576775455919" />
+    <state width="1358" height="130" key="GridCell.Tab.0.bottom/0.23.1440.826@0.23.1440.826" timestamp="1576792093923" />
+    <state width="1358" height="358" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1576775556403" />
+    <state width="1291" height="130" key="GridCell.Tab.0.center" timestamp="1577981950140">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.804@0.23.1440.804" timestamp="1576619098741" />
+    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.806@0.23.1440.806" timestamp="1576615618644" />
+    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.808@0.23.1440.808" timestamp="1576769818547" />
+    <state width="1358" height="130" key="GridCell.Tab.0.center/0.23.1440.811@0.23.1440.811" timestamp="1576870080878" />
+    <state width="1291" height="130" key="GridCell.Tab.0.center/0.23.1440.812@0.23.1440.812" timestamp="1576874324133" />
+    <state width="1291" height="130" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1576876733514" />
+    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.821@0.23.1440.821" timestamp="1576774558026" />
+    <state width="1358" height="192" key="GridCell.Tab.0.center/0.23.1440.822@0.23.1440.822" timestamp="1576774581179" />
+    <state width="1291" height="130" key="GridCell.Tab.0.center/0.23.1440.823@0.23.1440.823" timestamp="1577981950140" />
+    <state width="1358" height="358" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1576775455918" />
+    <state width="1358" height="130" key="GridCell.Tab.0.center/0.23.1440.826@0.23.1440.826" timestamp="1576792093922" />
+    <state width="1358" height="358" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1576775556403" />
+    <state width="1291" height="130" key="GridCell.Tab.0.left" timestamp="1577981950139">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.804@0.23.1440.804" timestamp="1576619098740" />
+    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.806@0.23.1440.806" timestamp="1576615618643" />
+    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.808@0.23.1440.808" timestamp="1576769818547" />
+    <state width="1358" height="130" key="GridCell.Tab.0.left/0.23.1440.811@0.23.1440.811" timestamp="1576870080878" />
+    <state width="1291" height="130" key="GridCell.Tab.0.left/0.23.1440.812@0.23.1440.812" timestamp="1576874324132" />
+    <state width="1291" height="130" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1576876733513" />
+    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.821@0.23.1440.821" timestamp="1576774558026" />
+    <state width="1358" height="192" key="GridCell.Tab.0.left/0.23.1440.822@0.23.1440.822" timestamp="1576774581179" />
+    <state width="1291" height="130" key="GridCell.Tab.0.left/0.23.1440.823@0.23.1440.823" timestamp="1577981950139" />
+    <state width="1358" height="358" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1576775455918" />
+    <state width="1358" height="130" key="GridCell.Tab.0.left/0.23.1440.826@0.23.1440.826" timestamp="1576792093922" />
+    <state width="1358" height="358" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1576775556402" />
+    <state width="1291" height="130" key="GridCell.Tab.0.right" timestamp="1577981950140">
+      <screen x="0" y="23" width="1440" height="823" />
+    </state>
+    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.804@0.23.1440.804" timestamp="1576619098741" />
+    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.806@0.23.1440.806" timestamp="1576615618644" />
+    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.808@0.23.1440.808" timestamp="1576769818548" />
+    <state width="1358" height="130" key="GridCell.Tab.0.right/0.23.1440.811@0.23.1440.811" timestamp="1576870080879" />
+    <state width="1291" height="130" key="GridCell.Tab.0.right/0.23.1440.812@0.23.1440.812" timestamp="1576874324133" />
+    <state width="1291" height="130" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1576876733514" />
+    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.821@0.23.1440.821" timestamp="1576774558027" />
+    <state width="1358" height="192" key="GridCell.Tab.0.right/0.23.1440.822@0.23.1440.822" timestamp="1576774581180" />
+    <state width="1291" height="130" key="GridCell.Tab.0.right/0.23.1440.823@0.23.1440.823" timestamp="1577981950140" />
+    <state width="1358" height="358" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1576775455918" />
+    <state width="1358" height="130" key="GridCell.Tab.0.right/0.23.1440.826@0.23.1440.826" timestamp="1576792093923" />
+    <state width="1358" height="358" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1576775556403" />
+    <state x="208" y="31" key="SettingsEditor" timestamp="1576603629114">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="208" y="31" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1576603629114" />
+    <state x="97" y="47" key="new project wizard" timestamp="1576792093027">
+      <screen x="0" y="23" width="1440" height="826" />
+    </state>
+    <state x="97" y="47" key="new project wizard/0.23.1440.826@0.23.1440.826" timestamp="1576792093027" />
+    <state x="426" y="39" key="refactoring.ChangeSignatureDialog" timestamp="1576772285115">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="426" y="39" key="refactoring.ChangeSignatureDialog/0.23.1440.814@0.23.1440.814" timestamp="1576772285115" />
+    <state x="385" y="210" key="run.anything.popup" timestamp="1576603579516">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1576603579516" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1576603622255">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1576603622255" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/vytrack/step_definitions/ContactStepDefs.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="3" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

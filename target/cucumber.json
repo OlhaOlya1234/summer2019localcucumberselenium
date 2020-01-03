@@ -1,0 +1,395 @@
+[
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-12-19T17:37:35.984Z",
+        "before": [
+          {
+            "result": {
+              "duration": 572685,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Default page number",
+        "description": "",
+        "id": "contact-page;default-page-number",
+        "after": [
+          {
+            "result": {
+              "duration": 1750690,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 5,
+            "name": "a driver is logged in",
+            "match": {},
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 6,
+            "name": "the user goes to \"Customers\" \"Contacts\"",
+            "match": {},
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "status": "undefined"
+            },
+            "line": 7,
+            "name": "default page number should be 1",
+            "match": {},
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "Contact page",
+    "description": "",
+    "id": "contact-page",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/Contact.feature",
+    "tags": []
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "start_timestamp": "2019-12-19T17:37:36.014Z",
+        "before": [
+          {
+            "result": {
+              "duration": 118719,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 4,
+        "name": "Login as a driver user",
+        "description": "",
+        "id": "login-as-a-different-users;login-as-a-driver-user",
+        "after": [
+          {
+            "result": {
+              "duration": 166894793,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2167444350,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "the user is on the login page",
+            "match": {
+              "location": "LoginStepDefs.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 608948754,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user logs in using \"user1\" and \"UserUser123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"user1\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"UserUser123\"",
+                  "offset": 31
+                }
+              ],
+              "location": "LoginWithParametersStepDefs.user_logs_in_using_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2017882776,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "the user should be able to login",
+            "match": {
+              "location": "LoginStepDefs.the_user_should_be_able_to_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3011881013,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "the title should contain \"Dashboard\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dashboard\"",
+                  "offset": 25
+                }
+              ],
+              "location": "LoginWithParametersStepDefs.the_title_should_contain(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-12-19T17:37:43.991Z",
+        "before": [
+          {
+            "result": {
+              "duration": 98795,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 11,
+        "name": "Login as a sales manager user",
+        "description": "",
+        "id": "login-as-a-different-users;login-as-a-sales-manager-user",
+        "after": [
+          {
+            "result": {
+              "duration": 202381373,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1306503422,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "the user is on the login page",
+            "match": {
+              "location": "LoginStepDefs.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 1847142240,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user logs in using \"salesmanager101\" and \"UserUser123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"salesmanager101\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"UserUser123\"",
+                  "offset": 41
+                }
+              ],
+              "location": "LoginWithParametersStepDefs.user_logs_in_using_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2015990436,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "the user should be able to login",
+            "match": {
+              "location": "LoginStepDefs.the_user_should_be_able_to_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3009868403,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "the title should contain \"Dashboard\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dashboard\"",
+                  "offset": 25
+                }
+              ],
+              "location": "LoginWithParametersStepDefs.the_title_should_contain(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      },
+      {
+        "start_timestamp": "2019-12-19T17:37:52.374Z",
+        "before": [
+          {
+            "result": {
+              "duration": 64897,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.setUp()"
+            }
+          }
+        ],
+        "line": 17,
+        "name": "Login as a store manager user",
+        "description": "",
+        "id": "login-as-a-different-users;login-as-a-store-manager-user",
+        "after": [
+          {
+            "result": {
+              "duration": 197890637,
+              "status": "passed"
+            },
+            "match": {
+              "location": "Hooks.tearDown()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1239410684,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "the user is on the login page",
+            "match": {
+              "location": "LoginStepDefs.the_user_is_on_the_login_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 750110674,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "user logs in using \"storemanager85\" and \"UserUser123\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"storemanager85\"",
+                  "offset": 19
+                },
+                {
+                  "val": "\"UserUser123\"",
+                  "offset": 40
+                }
+              ],
+              "location": "LoginWithParametersStepDefs.user_logs_in_using_and(String,String)"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2031470943,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "the user should be able to login",
+            "match": {
+              "location": "LoginStepDefs.the_user_should_be_able_to_login()"
+            },
+            "keyword": "Then "
+          },
+          {
+            "result": {
+              "duration": 3013388362,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "the title should contain \"Dashboard\"",
+            "match": {
+              "arguments": [
+                {
+                  "val": "\"Dashboard\"",
+                  "offset": 25
+                }
+              ],
+              "location": "LoginWithParametersStepDefs.the_title_should_contain(String)"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@wip"
+          }
+        ]
+      }
+    ],
+    "name": "login as a different users",
+    "description": "",
+    "id": "login-as-a-different-users",
+    "keyword": "Feature",
+    "uri": "file:src/test/resources/features/LoginWithParameters.feature",
+    "tags": []
+  }
+]
